@@ -6,9 +6,9 @@ _Qui ici fait de la veille ?_ <!-- .element: class="fragment" -->
 
 ### Pourquoi faire de la veille 
 
-* Perdre **un peu** de temps pour en gagner **beaucoup** <!-- .element: class="fragment" -->
-* Savoir ce qui se passe dans son domaine <!-- .element: class="fragment" -->
-* Avoir un peu de conversation tech <!-- .element: class="fragment" -->
+* Perdre **un peu** de temps pour en gagner **beaucoup** 
+* Savoir ce qui se passe dans son domaine 
+* Avoir un peu de conversation tech
 
 ---
 
@@ -81,13 +81,13 @@ Pour chaque article, rédaction d'un résumé en une phrase avec le lien de l'a
 
 ### Les outils
 
-* Les favoris <!-- .element: class="fragment" -->
-* Pocket | Wallabag <!-- .element: class="fragment" -->
-* RSS <!-- .element: class="fragment" -->
+* Les favoris 
+* Pocket | Wallabag 
+* RSS 
     * TinyRSS
     * Feedly.com
     * Inoreader, flus, etc
-* FeedReader <!-- .element: class="fragment" -->
+* FeedReader 
     
 ---    
 
