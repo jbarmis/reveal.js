@@ -1,5 +1,3 @@
-<!-- .slide: data-background="#ff0000" -->
-
 # Making tech watch great again 
 
 _Qui ici fait de la veille ?_ <!-- .element: class="fragment" -->
