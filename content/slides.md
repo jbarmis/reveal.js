@@ -25,7 +25,12 @@ _Qui ici fait de la veille ?_ <!-- .element: class="fragment" -->
 
 ### Cas pratique
 
-_Not on my watch_
+1. Deux slots de 20 minutes par jour (un le matin et un le soir)
+2. Lecture des nouveaux articles des blogs favoris
+3. Lecture rapide des agrégateurs ou sauvegarde pour plus tard
+4. Si temps restant, lecture des articles sauvegardés
+
+Pour chaque article, rédaction d'un résumé en une phrase avec le lien de l'article
 
 ---
 
