@@ -1,5 +1,7 @@
 # Making tech watch great again 
 
+_Qui fait de la veille ?_
+
 ---
 
 ### Pourquoi faire de la veille 
@@ -18,6 +20,12 @@
 * Bien trier ses sources et éviter la noyade <!-- .element: class="fragment" -->
 * Faire de la lecture rapide <!-- .element: class="fragment" -->
 * Toujours terminer par un court résumé <!-- .element: class="fragment" -->
+
+--
+
+### Cas pratique
+
+_Not on my watch_
 
 ---
 
@@ -41,6 +49,7 @@ _Avec quelques exemples_
 
 * lord.re
 * blog.octo.com
+
 --
 
 #### Podcasts
@@ -53,6 +62,13 @@ _Avec quelques exemples_
 #### Newsletters
 
 * Oui, aussi.
+
+#### Autres
+
+* Conférences, Meetup, JUG, etc
+* Reddit
+* Youtube (chaînes de développeurs, conférences, etc)
+* Twitter
 
 ---
 
