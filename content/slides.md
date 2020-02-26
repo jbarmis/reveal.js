@@ -1,3 +1,5 @@
+<!-- .slide: data-background="#ff0000" -->
+
 # Making tech watch great again 
 
 _Qui ici fait de la veille ?_ <!-- .element: class="fragment" -->
@@ -91,6 +93,8 @@ Pour chaque article, rédaction d'un résumé en une phrase avec le lien de l'a
     
 ---    
 
-![](img/minivatar.jpeg)
+#### Retrouvez ce talk
 
-https://bit.ly/393T6Cb
+![](img/qrcode.png)
+
+https://frama.link/techwatch
