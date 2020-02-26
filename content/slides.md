@@ -1,6 +1,7 @@
 ### Making tech watch great again 
 
-
+![](img/minivatar.jpeg)
+https://github.com/jbarmis
 
 
 ## Pourquoi faire de la veille 
@@ -41,3 +42,10 @@
 * Pocket | Wallabag
 * RSS
     * TinyRSS | feedly.com
+    
+    
+
+![](img/minivatar.jpeg)
+https://github.com/jbarmis
+
+https://bit.ly/393T6Cb
