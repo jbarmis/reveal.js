@@ -4,24 +4,26 @@
 
 ### Pourquoi faire de la veille 
 
-* Perdre un peu de temps pour en beaucoup en gagner <!-- .element: class="fragment" -->
-* Comprendre et savoir ce qui se passe dans son domaine <!-- .element: class="fragment" -->
-* Ne pas être ringard et avoir un peu de conversation tech <!-- .element: class="fragment" -->
+* Perdre **un peu** de temps pour en gagner **beaucoup** <!-- .element: class="fragment" -->
+* Savoir ce qui se passe dans son domaine <!-- .element: class="fragment" -->
+* Avoir un peu de conversation tech <!-- .element: class="fragment" -->
 
 ---
 
 ### Bien faire sa veille
 
-* Comprendre au lieu d'apprendre <!-- .element: class="fragment" -->
-* Varier les sujets, sortir de son domaine (front, back, DB, ops, produit, data sci) <!-- .element: class="fragment" -->
 * Ritualiser le moment <!-- .element: class="fragment" -->
+* Varier les sujets et sortir de son domaine (front, back, DB, ops, produit, data sci) <!-- .element: class="fragment" -->
+* Comprendre au lieu d'apprendre <!-- .element: class="fragment" -->
+* Bien trier ses sources et éviter la noyade <!-- .element: class="fragment" -->
 * Faire de la lecture rapide <!-- .element: class="fragment" -->
-* Bien trier ses sources <!-- .element: class="fragment" -->
-* Terminer par un résumé <!-- .element: class="fragment" -->
+* Toujours terminer par un court résumé <!-- .element: class="fragment" -->
 
 ---
 
 ### Choisir les supports
+
+_Avec quelques exemples_
 
 --
 
@@ -56,10 +58,13 @@
 
 ### Les outils
 
+* Les favoris <!-- .element: class="fragment" -->
 * Pocket | Wallabag <!-- .element: class="fragment" -->
 * RSS <!-- .element: class="fragment" -->
     * TinyRSS
     * Feedly.com
+    * Inoreader, flus, etc
+* FeedReader <!-- .element: class="fragment" -->
     
 ---    
 
