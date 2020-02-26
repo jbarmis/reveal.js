@@ -57,6 +57,8 @@ _Avec quelques exemples_
 
 * Oui, aussi.
 
+--
+
 #### Autres
 
 * Conférences, Meetup, JUG, etc
@@ -68,21 +70,27 @@ _Avec quelques exemples_
 
 ### Méthodologie: un cas pratique
 
-1. Deux slots de 20 minutes par jour (un le matin et un le soir) <!-- .element: class="fragment" -->
+1. Deux slots de 20 minutes par jour (un le matin et un le soir) <!-- .element: class="fragment" data-transition="none" -->
 
 -- 
 
-2. Lecture des nouveaux articles des blogs favoris <!-- .element: class="fragment" -->
+### Méthodologie: un cas pratique
+
+2. Lecture des nouveaux articles des blogs favoris <!-- .element: class="fragment" data-transition="none" -->
 
 --
 
-3. Lecture rapide des agrégateurs ou sauvegarde pour plus tard <!-- .element: class="fragment" -->
+### Méthodologie: un cas pratique
+
+3. Lecture rapide des agrégateurs ou sauvegarde pour plus tard <!-- .element: class="fragment" data-transition="none" -->
 
 --
 
-4. Si temps restant, lecture des articles sauvegardés <!-- .element: class="fragment" -->
+### Méthodologie: un cas pratique
 
-Pour chaque article, rédaction d'un résumé en une phrase avec le lien de l'article <!-- .element: class="fragment" -->
+4. Si temps restant, lecture des articles sauvegardés <!-- .element: class="fragment" data-transition="none" -->
+
+>Note: Pour chaque article, rédaction d'un résumé en une phrase avec le lien de l'article <!-- .element: class="fragment" -->
 
 ---
 
