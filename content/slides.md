@@ -1,6 +1,6 @@
 # Making tech watch great again 
 
-_Qui fait de la veille ?_
+_Qui ici fait de la veille ?_ <!-- .element: class="fragment" -->
 
 ---
 
