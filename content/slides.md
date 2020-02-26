@@ -23,13 +23,34 @@
 
 ### Choisir les supports
 
-* Agrégateurs <!-- .element: class="fragment" -->
-    * developpez.com | news.humancoders.com | journalduhacker.net | dev.to
-    * news.ycombinator.com (hackernews)
-* Blogs <!-- .element: class="fragment" -->
-* Podcasts <!-- .element: class="fragment" -->
-    * artisandeveloppeur.fr/blog
-* Newsletters <!-- .element: class="fragment" -->
+--
+
+#### Agrégateurs 
+
+* developpez.com 
+* news.humancoders.com
+* journalduhacker.net
+* dev.to
+* news.ycombinator.com (hackernews)
+
+--
+
+#### Blogs
+
+* lord.re
+* blog.octo.com
+--
+
+#### Podcasts
+
+* humantalks.com/talks
+* artisandeveloppeur.fr/blog
+
+--
+
+#### Newsletters
+
+* Oui, aussi.
 
 ---
 
@@ -43,7 +64,5 @@
 ---    
 
 ![](img/minivatar.jpeg)
-
-https://github.com/jbarmis
 
 https://bit.ly/393T6Cb
