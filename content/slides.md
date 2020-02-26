@@ -21,17 +21,6 @@ _Qui ici fait de la veille ?_ <!-- .element: class="fragment" -->
 * Faire de la lecture rapide <!-- .element: class="fragment" -->
 * Toujours terminer par un court résumé <!-- .element: class="fragment" -->
 
---
-
-### Cas pratique
-
-1. Deux slots de 20 minutes par jour (un le matin et un le soir)
-2. Lecture des nouveaux articles des blogs favoris
-3. Lecture rapide des agrégateurs ou sauvegarde pour plus tard
-4. Si temps restant, lecture des articles sauvegardés
-
-Pour chaque article, rédaction d'un résumé en une phrase avec le lien de l'article
-
 ---
 
 ### Choisir les supports
@@ -74,6 +63,26 @@ _Avec quelques exemples_
 * Reddit
 * Youtube (chaînes de développeurs, conférences, etc)
 * Twitter
+
+---
+
+### Méthodologie: un cas pratique
+
+1. Deux slots de 20 minutes par jour (un le matin et un le soir) <!-- .element: class="fragment" -->
+
+-- 
+
+2. Lecture des nouveaux articles des blogs favoris <!-- .element: class="fragment" -->
+
+--
+
+3. Lecture rapide des agrégateurs ou sauvegarde pour plus tard <!-- .element: class="fragment" -->
+
+--
+
+4. Si temps restant, lecture des articles sauvegardés <!-- .element: class="fragment" -->
+
+Pour chaque article, rédaction d'un résumé en une phrase avec le lien de l'article <!-- .element: class="fragment" -->
 
 ---
 
