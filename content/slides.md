@@ -1,16 +1,16 @@
 ### Making tech watch great again 
 
-![](img/minivatar.jpeg)
-https://github.com/jbarmis
+
+
 
 
 ## Pourquoi faire de la veille 
 
-* Perdre du temps pour en gagner
-* Comprendre et savoir ce qui se passe dans son domaine
-* Ne pas être ringard et avoir un peu de conversation tech
+* Perdre un peu de temps pour en beaucoup en gagner <!-- .element: class="fragment" -->
+* Comprendre et savoir ce qui se passe dans son domaine <!-- .element: class="fragment" -->
+* Ne pas être ringard et avoir un peu de conversation tech <!-- .element: class="fragment" -->
 
-
+Note: test
 
 
 ## Bien faire sa veille
